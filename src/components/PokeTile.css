@@ -1,0 +1,16 @@
+body{
+    font-size: 10px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+.pokemon-tile{
+    min-width:130px;
+    margin:10px;
+    background-color:hsl(0, 0%, 80%);
+    border-radius: 10px;
+}
+
+
